@@ -8,9 +8,9 @@ public class Main {
         
         System.out.println(var1 + var2);
         
-        String name = "Kevin";
-        System.out.print(name.toUpperCase());
-        
-        
+        int x = 16;
+        int y = -16;
+        System.out.println(Math.abs(x));
+        System.out.println(Math.abs(y));
     }
 }
